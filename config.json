@@ -1,0 +1,13 @@
+{
+  "exchange": "binance",
+  "symbol": "BTC/USDT",
+  "timeframe": "1h",
+  "grid_levels": 10,
+  "grid_step_pct": 0.5,
+  "order_size": 0.001,
+  "base_currency": "USDT",
+  "twitter": {
+    "query": "BTC OR Bitcoin -is:retweet lang:en",
+    "max_tweets": 80
+  }
+}

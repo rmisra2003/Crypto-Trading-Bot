@@ -1,0 +1,10 @@
+ccxt
+ta
+pandas
+numpy
+scikit-learn
+joblib
+tweepy
+transformers
+torch
+python-dotenv
